@@ -6,7 +6,7 @@ Project Overview
 This project focuses on analyzing credit card transactions and customer details to gain actionable insights.
 Using Power BI, I created interactive dashboards to visualize key metrics and trends related to credit card revenue, customer demographics, and transaction patterns.
 
-
+________________________________________
 Data Sources
 
 The project uses two primary datasets:
@@ -14,7 +14,7 @@ The project uses two primary datasets:
 1.	Credit Card Transaction Details: Includes information on transaction amounts, interest earned, expenditure types, and payment methods (swipe, chip, online).
    
 2.	Credit Card Customer Details: Contains demographic data such as age, gender, income group, marital status, job type, and education level.
-   
+   ________________________________________
 Key Features of the Dashboard
 
 1. Credit Card Transaction Report
@@ -70,7 +70,7 @@ Credit Card Customer Report View
 
 ![Screenshot (43)](https://github.com/user-attachments/assets/e87ad50c-c0e1-42d2-9a6e-2a44e9392f2e)
 
-
+________________________________________
 
 Tools Used
 
@@ -78,7 +78,7 @@ Tools Used
 
 •	Excel: For data preparation and cleanup.
 
-
+________________________________________
 Insights Derived
 
 •	Customers in higher income groups contribute significantly to the revenue.
@@ -88,10 +88,13 @@ Insights Derived
 •	Bills and entertainment are the top spending categories.
 
 •	Married individuals generate more revenue compared to single or unknown marital statuses.
-
+________________________________________
 Future Improvements
 
 •	Integrate real-time transaction data for up-to-date analytics.
 
 •	Include predictive analysis to identify potential revenue growth areas.
+
+
+
 
