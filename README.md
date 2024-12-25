@@ -43,6 +43,11 @@ o	Performance of different card categories (e.g., Blue, Silver, Gold, Platinum).
 
 o	Insights into education level, job type, and usage patterns by chip or swipe.
 
+Credit Card Transaction Report View
+
+![Screenshot (44)](https://github.com/user-attachments/assets/f9817d6a-a2e2-4033-ad3d-850fb8efb08a)
+
+
 2. Credit Card Customer Report
    
 •	Revenue Demographics:
@@ -60,6 +65,12 @@ o	Revenue contributions segmented by job types (e.g., businessman, white-collar,
 •	Revenue by Dependents and Education:
 
 o	Analysis of revenue contribution based on customer dependents and education levels.
+
+Credit Card Customer Report View
+
+![Screenshot (43)](https://github.com/user-attachments/assets/e87ad50c-c0e1-42d2-9a6e-2a44e9392f2e)
+
+
 
 Tools Used
 
